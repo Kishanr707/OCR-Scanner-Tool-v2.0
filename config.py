@@ -1,7 +1,7 @@
 # config.py
 # ─── Gemini API Configuration ─────────────────────────────────────────────────
 
-GEMINI_API_KEY = "AIzaSyCPywtS6hH3f2HGPFKkdeV-0Fv7cNTvs2o"        # paste your key here before building
+GEMINI_API_KEY = "-----------------"        # paste your key here before building
 
 GEMINI_MODEL   = "gemini-2.5-flash"         # model to use for all calls
 
