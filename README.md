@@ -2,7 +2,7 @@
 
 A desktop application that scans visiting cards and contact documents, extracts name, phone number, and email using AI vision, and saves everything into a persistent master Excel sheet.
 
-Built for internal/industrial use — functional, fast, and offline-friendly once packaged.
+Built for internal/industrial use — functional, fast, and quick data extraction.
 
 ---
 
